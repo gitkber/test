@@ -6,6 +6,8 @@
 	
 	<display-name>FirstSpringMVCTutorial</display-name>
 	
+	<!-- http://localhost:8080/FirstSpringMVC/ -->
+	
 	<welcome-file-list>
 		<welcome-file>index.jsp</welcome-file>
 	</welcome-file-list>
@@ -21,4 +23,5 @@
 		<url-pattern>/welcome.html</url-pattern>
 		<url-pattern>*.html</url-pattern>
 	</servlet-mapping>
+	
 </web-app>
